@@ -1,0 +1,541 @@
+Metric,Reference Model,Compared Model,Wilcoxon Statistic,p-value,Significant (p < 0.05)
+CatBoost,Fold,Accuracy,0.0,0.001953125,True
+CatBoost,Fold,Precision,0.0,0.001953125,True
+CatBoost,Fold,Recall,0.0,0.001953125,True
+CatBoost,Fold,F1,0.0,0.001953125,True
+CatBoost,Fold,AUC,0.0,0.001953125,True
+CatBoost,Fold,MCC,0.0,0.001953125,True
+CatBoost,Fold,Kappa,0.0,0.001953125,True
+CatBoost,Fold,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,Fold,Training Time (s),0.0,0.001953125,True
+CatBoost,Accuracy,Precision,0.0,0.001953125,True
+CatBoost,Accuracy,Recall,0.0,1.0,False
+CatBoost,Accuracy,F1,0.0,0.001953125,True
+CatBoost,Accuracy,AUC,0.0,0.001953125,True
+CatBoost,Accuracy,MCC,0.0,0.001953125,True
+CatBoost,Accuracy,Kappa,0.0,0.001953125,True
+CatBoost,Accuracy,Balanced Accuracy,27.0,1.0,False
+CatBoost,Accuracy,Training Time (s),0.0,0.001953125,True
+CatBoost,Precision,Recall,0.0,0.001953125,True
+CatBoost,Precision,F1,0.0,0.001953125,True
+CatBoost,Precision,AUC,0.0,0.001953125,True
+CatBoost,Precision,MCC,0.0,0.001953125,True
+CatBoost,Precision,Kappa,0.0,0.001953125,True
+CatBoost,Precision,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,Precision,Training Time (s),0.0,0.001953125,True
+CatBoost,Recall,F1,0.0,0.001953125,True
+CatBoost,Recall,AUC,0.0,0.001953125,True
+CatBoost,Recall,MCC,0.0,0.001953125,True
+CatBoost,Recall,Kappa,0.0,0.001953125,True
+CatBoost,Recall,Balanced Accuracy,27.0,1.0,False
+CatBoost,Recall,Training Time (s),0.0,0.001953125,True
+CatBoost,F1,AUC,0.0,0.001953125,True
+CatBoost,F1,MCC,0.0,0.001953125,True
+CatBoost,F1,Kappa,0.0,0.001953125,True
+CatBoost,F1,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,F1,Training Time (s),0.0,0.001953125,True
+CatBoost,AUC,MCC,0.0,0.001953125,True
+CatBoost,AUC,Kappa,0.0,0.001953125,True
+CatBoost,AUC,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,AUC,Training Time (s),0.0,0.001953125,True
+CatBoost,MCC,Kappa,0.0,0.001953125,True
+CatBoost,MCC,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,MCC,Training Time (s),0.0,0.001953125,True
+CatBoost,Kappa,Balanced Accuracy,0.0,0.001953125,True
+CatBoost,Kappa,Training Time (s),0.0,0.001953125,True
+CatBoost,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Fold,Accuracy,0.0,0.001953125,True
+Logistic_Regression,Fold,Precision,0.0,0.001953125,True
+Logistic_Regression,Fold,Recall,0.0,0.001953125,True
+Logistic_Regression,Fold,F1,0.0,0.001953125,True
+Logistic_Regression,Fold,AUC,0.0,0.001953125,True
+Logistic_Regression,Fold,MCC,0.0,0.001953125,True
+Logistic_Regression,Fold,Kappa,0.0,0.001953125,True
+Logistic_Regression,Fold,Balanced Accuracy,0.0,0.001953125,True
+Logistic_Regression,Fold,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Accuracy,Precision,0.0,0.001953125,True
+Logistic_Regression,Accuracy,Recall,0.0,1.0,False
+Logistic_Regression,Accuracy,F1,0.0,0.001953125,True
+Logistic_Regression,Accuracy,AUC,0.0,0.001953125,True
+Logistic_Regression,Accuracy,MCC,0.0,0.001953125,True
+Logistic_Regression,Accuracy,Kappa,0.0,0.001953125,True
+Logistic_Regression,Accuracy,Balanced Accuracy,26.0,0.90234375,False
+Logistic_Regression,Accuracy,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Precision,Recall,0.0,0.001953125,True
+Logistic_Regression,Precision,F1,0.0,0.001953125,True
+Logistic_Regression,Precision,AUC,0.0,0.001953125,True
+Logistic_Regression,Precision,MCC,0.0,0.001953125,True
+Logistic_Regression,Precision,Kappa,0.0,0.001953125,True
+Logistic_Regression,Precision,Balanced Accuracy,0.0,0.001953125,True
+Logistic_Regression,Precision,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Recall,F1,0.0,0.001953125,True
+Logistic_Regression,Recall,AUC,0.0,0.001953125,True
+Logistic_Regression,Recall,MCC,0.0,0.001953125,True
+Logistic_Regression,Recall,Kappa,0.0,0.001953125,True
+Logistic_Regression,Recall,Balanced Accuracy,26.0,0.90234375,False
+Logistic_Regression,Recall,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,F1,AUC,0.0,0.001953125,True
+Logistic_Regression,F1,MCC,0.0,0.001953125,True
+Logistic_Regression,F1,Kappa,0.0,0.001953125,True
+Logistic_Regression,F1,Balanced Accuracy,3.0,0.009765625,True
+Logistic_Regression,F1,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,AUC,MCC,0.0,0.001953125,True
+Logistic_Regression,AUC,Kappa,0.0,0.001953125,True
+Logistic_Regression,AUC,Balanced Accuracy,0.0,0.001953125,True
+Logistic_Regression,AUC,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,MCC,Kappa,0.0,0.001953125,True
+Logistic_Regression,MCC,Balanced Accuracy,0.0,0.001953125,True
+Logistic_Regression,MCC,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Kappa,Balanced Accuracy,0.0,0.001953125,True
+Logistic_Regression,Kappa,Training Time (s),0.0,0.001953125,True
+Logistic_Regression,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+GBM,Fold,Accuracy,0.0,0.001953125,True
+GBM,Fold,Precision,0.0,0.001953125,True
+GBM,Fold,Recall,0.0,0.001953125,True
+GBM,Fold,F1,0.0,0.001953125,True
+GBM,Fold,AUC,0.0,0.001953125,True
+GBM,Fold,MCC,0.0,0.001953125,True
+GBM,Fold,Kappa,0.0,0.001953125,True
+GBM,Fold,Balanced Accuracy,0.0,0.001953125,True
+GBM,Fold,Training Time (s),0.0,0.001953125,True
+GBM,Accuracy,Precision,0.0,0.001953125,True
+GBM,Accuracy,Recall,0.0,1.0,False
+GBM,Accuracy,F1,0.0,1.0,False
+GBM,Accuracy,AUC,0.0,0.001953125,True
+GBM,Accuracy,MCC,0.0,0.001953125,True
+GBM,Accuracy,Kappa,0.0,0.001953125,True
+GBM,Accuracy,Balanced Accuracy,27.0,1.0,False
+GBM,Accuracy,Training Time (s),0.0,0.001953125,True
+GBM,Precision,Recall,0.0,0.001953125,True
+GBM,Precision,F1,0.0,0.001953125,True
+GBM,Precision,AUC,0.0,0.001953125,True
+GBM,Precision,MCC,0.0,0.001953125,True
+GBM,Precision,Kappa,0.0,0.001953125,True
+GBM,Precision,Balanced Accuracy,17.5,0.6015625,False
+GBM,Precision,Training Time (s),0.0,0.001953125,True
+GBM,Recall,F1,0.0,1.0,False
+GBM,Recall,AUC,0.0,0.001953125,True
+GBM,Recall,MCC,0.0,0.001953125,True
+GBM,Recall,Kappa,0.0,0.001953125,True
+GBM,Recall,Balanced Accuracy,27.0,1.0,False
+GBM,Recall,Training Time (s),0.0,0.001953125,True
+GBM,F1,AUC,0.0,0.001953125,True
+GBM,F1,MCC,0.0,0.001953125,True
+GBM,F1,Kappa,0.0,0.001953125,True
+GBM,F1,Balanced Accuracy,27.0,1.0,False
+GBM,F1,Training Time (s),0.0,0.001953125,True
+GBM,AUC,MCC,0.0,0.001953125,True
+GBM,AUC,Kappa,0.0,0.001953125,True
+GBM,AUC,Balanced Accuracy,0.0,0.001953125,True
+GBM,AUC,Training Time (s),0.0,0.001953125,True
+GBM,MCC,Kappa,0.0,0.03125,True
+GBM,MCC,Balanced Accuracy,0.0,0.001953125,True
+GBM,MCC,Training Time (s),0.0,0.001953125,True
+GBM,Kappa,Balanced Accuracy,0.0,0.001953125,True
+GBM,Kappa,Training Time (s),0.0,0.001953125,True
+GBM,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+MLP,Fold,Accuracy,0.0,0.001953125,True
+MLP,Fold,Precision,0.0,0.001953125,True
+MLP,Fold,Recall,0.0,0.001953125,True
+MLP,Fold,F1,0.0,0.001953125,True
+MLP,Fold,AUC,0.0,0.001953125,True
+MLP,Fold,MCC,0.0,0.001953125,True
+MLP,Fold,Kappa,0.0,0.001953125,True
+MLP,Fold,Balanced Accuracy,0.0,0.001953125,True
+MLP,Fold,Training Time (s),0.0,0.001953125,True
+MLP,Accuracy,Precision,0.0,0.125,False
+MLP,Accuracy,Recall,0.0,1.0,False
+MLP,Accuracy,F1,0.0,0.5,False
+MLP,Accuracy,AUC,0.0,0.001953125,True
+MLP,Accuracy,MCC,0.0,0.001953125,True
+MLP,Accuracy,Kappa,0.0,0.001953125,True
+MLP,Accuracy,Balanced Accuracy,27.0,0.97265625,False
+MLP,Accuracy,Training Time (s),0.0,0.001953125,True
+MLP,Precision,Recall,0.0,0.125,False
+MLP,Precision,F1,0.0,0.0625,False
+MLP,Precision,AUC,0.0,0.001953125,True
+MLP,Precision,MCC,0.0,0.001953125,True
+MLP,Precision,Kappa,0.0,0.001953125,True
+MLP,Precision,Balanced Accuracy,23.0,0.673828125,False
+MLP,Precision,Training Time (s),0.0,0.001953125,True
+MLP,Recall,F1,0.0,0.5,False
+MLP,Recall,AUC,0.0,0.001953125,True
+MLP,Recall,MCC,0.0,0.001953125,True
+MLP,Recall,Kappa,0.0,0.001953125,True
+MLP,Recall,Balanced Accuracy,27.0,0.97265625,False
+MLP,Recall,Training Time (s),0.0,0.001953125,True
+MLP,F1,AUC,0.0,0.001953125,True
+MLP,F1,MCC,0.0,0.001953125,True
+MLP,F1,Kappa,0.0,0.001953125,True
+MLP,F1,Balanced Accuracy,27.0,0.9921875,False
+MLP,F1,Training Time (s),0.0,0.001953125,True
+MLP,AUC,MCC,0.0,0.001953125,True
+MLP,AUC,Kappa,0.0,0.001953125,True
+MLP,AUC,Balanced Accuracy,0.0,0.001953125,True
+MLP,AUC,Training Time (s),0.0,0.001953125,True
+MLP,MCC,Kappa,0.0,0.5,False
+MLP,MCC,Balanced Accuracy,0.0,0.001953125,True
+MLP,MCC,Training Time (s),0.0,0.001953125,True
+MLP,Kappa,Balanced Accuracy,0.0,0.001953125,True
+MLP,Kappa,Training Time (s),0.0,0.001953125,True
+MLP,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+XGBoost,Fold,Accuracy,0.0,0.001953125,True
+XGBoost,Fold,Precision,0.0,0.001953125,True
+XGBoost,Fold,Recall,0.0,0.001953125,True
+XGBoost,Fold,F1,0.0,0.001953125,True
+XGBoost,Fold,AUC,0.0,0.001953125,True
+XGBoost,Fold,MCC,0.0,0.001953125,True
+XGBoost,Fold,Kappa,0.0,0.001953125,True
+XGBoost,Fold,Balanced Accuracy,0.0,0.001953125,True
+XGBoost,Fold,Training Time (s),0.0,0.001953125,True
+XGBoost,Accuracy,Precision,0.0,0.125,False
+XGBoost,Accuracy,Recall,0.0,1.0,False
+XGBoost,Accuracy,F1,0.0,0.125,False
+XGBoost,Accuracy,AUC,0.0,0.001953125,True
+XGBoost,Accuracy,MCC,0.0,0.001953125,True
+XGBoost,Accuracy,Kappa,0.0,0.001953125,True
+XGBoost,Accuracy,Balanced Accuracy,24.5,0.783203125,False
+XGBoost,Accuracy,Training Time (s),0.0,0.001953125,True
+XGBoost,Precision,Recall,0.0,0.125,False
+XGBoost,Precision,F1,0.0,0.0078125,True
+XGBoost,Precision,AUC,0.0,0.001953125,True
+XGBoost,Precision,MCC,0.0,0.001953125,True
+XGBoost,Precision,Kappa,0.0,0.001953125,True
+XGBoost,Precision,Balanced Accuracy,19.0,0.416015625,False
+XGBoost,Precision,Training Time (s),0.0,0.001953125,True
+XGBoost,Recall,F1,0.0,0.125,False
+XGBoost,Recall,AUC,0.0,0.001953125,True
+XGBoost,Recall,MCC,0.0,0.001953125,True
+XGBoost,Recall,Kappa,0.0,0.001953125,True
+XGBoost,Recall,Balanced Accuracy,24.5,0.783203125,False
+XGBoost,Recall,Training Time (s),0.0,0.001953125,True
+XGBoost,F1,AUC,0.0,0.001953125,True
+XGBoost,F1,MCC,0.0,0.001953125,True
+XGBoost,F1,Kappa,0.0,0.001953125,True
+XGBoost,F1,Balanced Accuracy,26.5,0.94140625,False
+XGBoost,F1,Training Time (s),0.0,0.001953125,True
+XGBoost,AUC,MCC,0.0,0.001953125,True
+XGBoost,AUC,Kappa,0.0,0.001953125,True
+XGBoost,AUC,Balanced Accuracy,0.0,0.001953125,True
+XGBoost,AUC,Training Time (s),0.0,0.001953125,True
+XGBoost,MCC,Kappa,0.0,0.0625,False
+XGBoost,MCC,Balanced Accuracy,0.0,0.001953125,True
+XGBoost,MCC,Training Time (s),0.0,0.001953125,True
+XGBoost,Kappa,Balanced Accuracy,0.0,0.001953125,True
+XGBoost,Kappa,Training Time (s),0.0,0.001953125,True
+XGBoost,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+DecisionTree,Fold,Accuracy,0.0,0.001953125,True
+DecisionTree,Fold,Precision,0.0,0.001953125,True
+DecisionTree,Fold,Recall,0.0,0.001953125,True
+DecisionTree,Fold,F1,0.0,0.001953125,True
+DecisionTree,Fold,AUC,0.0,0.001953125,True
+DecisionTree,Fold,MCC,0.0,0.001953125,True
+DecisionTree,Fold,Kappa,0.0,0.001953125,True
+DecisionTree,Fold,Balanced Accuracy,0.0,0.001953125,True
+DecisionTree,Fold,Training Time (s),0.0,0.001953125,True
+DecisionTree,Accuracy,Precision,5.5,0.6875,False
+DecisionTree,Accuracy,Recall,0.0,1.0,False
+DecisionTree,Accuracy,F1,0.0,0.001953125,True
+DecisionTree,Accuracy,AUC,0.0,0.001953125,True
+DecisionTree,Accuracy,MCC,0.0,0.001953125,True
+DecisionTree,Accuracy,Kappa,0.0,0.001953125,True
+DecisionTree,Accuracy,Balanced Accuracy,27.5,1.0,False
+DecisionTree,Accuracy,Training Time (s),0.0,0.001953125,True
+DecisionTree,Precision,Recall,5.5,0.6875,False
+DecisionTree,Precision,F1,0.0,0.0078125,True
+DecisionTree,Precision,AUC,0.0,0.001953125,True
+DecisionTree,Precision,MCC,0.0,0.001953125,True
+DecisionTree,Precision,Kappa,0.0,0.001953125,True
+DecisionTree,Precision,Balanced Accuracy,25.0,0.845703125,False
+DecisionTree,Precision,Training Time (s),0.0,0.001953125,True
+DecisionTree,Recall,F1,0.0,0.001953125,True
+DecisionTree,Recall,AUC,0.0,0.001953125,True
+DecisionTree,Recall,MCC,0.0,0.001953125,True
+DecisionTree,Recall,Kappa,0.0,0.001953125,True
+DecisionTree,Recall,Balanced Accuracy,27.5,1.0,False
+DecisionTree,Recall,Training Time (s),0.0,0.001953125,True
+DecisionTree,F1,AUC,0.0,0.001953125,True
+DecisionTree,F1,MCC,0.0,0.001953125,True
+DecisionTree,F1,Kappa,0.0,0.001953125,True
+DecisionTree,F1,Balanced Accuracy,18.0,0.65234375,False
+DecisionTree,F1,Training Time (s),0.0,0.001953125,True
+DecisionTree,AUC,MCC,0.0,0.001953125,True
+DecisionTree,AUC,Kappa,0.0,0.001953125,True
+DecisionTree,AUC,Balanced Accuracy,0.0,0.001953125,True
+DecisionTree,AUC,Training Time (s),0.0,0.001953125,True
+DecisionTree,MCC,Kappa,0.0,0.015625,True
+DecisionTree,MCC,Balanced Accuracy,0.0,0.001953125,True
+DecisionTree,MCC,Training Time (s),0.0,0.001953125,True
+DecisionTree,Kappa,Balanced Accuracy,0.0,0.001953125,True
+DecisionTree,Kappa,Training Time (s),0.0,0.001953125,True
+DecisionTree,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+Random_Forest,Fold,Accuracy,0.0,0.001953125,True
+Random_Forest,Fold,Precision,0.0,0.001953125,True
+Random_Forest,Fold,Recall,0.0,0.001953125,True
+Random_Forest,Fold,F1,0.0,0.001953125,True
+Random_Forest,Fold,AUC,0.0,0.001953125,True
+Random_Forest,Fold,MCC,0.0,0.001953125,True
+Random_Forest,Fold,Kappa,0.0,0.001953125,True
+Random_Forest,Fold,Balanced Accuracy,0.0,0.001953125,True
+Random_Forest,Fold,Training Time (s),0.0,0.001953125,True
+Random_Forest,Accuracy,Precision,0.0,0.001953125,True
+Random_Forest,Accuracy,Recall,0.0,1.0,False
+Random_Forest,Accuracy,F1,0.0,0.001953125,True
+Random_Forest,Accuracy,AUC,0.0,0.001953125,True
+Random_Forest,Accuracy,MCC,0.0,0.001953125,True
+Random_Forest,Accuracy,Kappa,0.0,0.001953125,True
+Random_Forest,Accuracy,Balanced Accuracy,25.0,0.845703125,False
+Random_Forest,Accuracy,Training Time (s),0.0,0.001953125,True
+Random_Forest,Precision,Recall,0.0,0.001953125,True
+Random_Forest,Precision,F1,0.0,0.001953125,True
+Random_Forest,Precision,AUC,0.0,0.001953125,True
+Random_Forest,Precision,MCC,0.0,0.001953125,True
+Random_Forest,Precision,Kappa,0.0,0.001953125,True
+Random_Forest,Precision,Balanced Accuracy,0.0,0.001953125,True
+Random_Forest,Precision,Training Time (s),0.0,0.001953125,True
+Random_Forest,Recall,F1,0.0,0.001953125,True
+Random_Forest,Recall,AUC,0.0,0.001953125,True
+Random_Forest,Recall,MCC,0.0,0.001953125,True
+Random_Forest,Recall,Kappa,0.0,0.001953125,True
+Random_Forest,Recall,Balanced Accuracy,25.0,0.845703125,False
+Random_Forest,Recall,Training Time (s),0.0,0.001953125,True
+Random_Forest,F1,AUC,0.0,0.001953125,True
+Random_Forest,F1,MCC,0.0,0.001953125,True
+Random_Forest,F1,Kappa,0.0,0.001953125,True
+Random_Forest,F1,Balanced Accuracy,13.0,0.30078125,False
+Random_Forest,F1,Training Time (s),0.0,0.001953125,True
+Random_Forest,AUC,MCC,0.0,0.001953125,True
+Random_Forest,AUC,Kappa,0.0,0.001953125,True
+Random_Forest,AUC,Balanced Accuracy,0.0,0.001953125,True
+Random_Forest,AUC,Training Time (s),0.0,0.001953125,True
+Random_Forest,MCC,Kappa,0.0,0.001953125,True
+Random_Forest,MCC,Balanced Accuracy,0.0,0.001953125,True
+Random_Forest,MCC,Training Time (s),0.0,0.001953125,True
+Random_Forest,Kappa,Balanced Accuracy,0.0,0.001953125,True
+Random_Forest,Kappa,Training Time (s),0.0,0.001953125,True
+Random_Forest,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+KNN,Fold,Accuracy,0.0,0.001953125,True
+KNN,Fold,Precision,0.0,0.001953125,True
+KNN,Fold,Recall,0.0,0.001953125,True
+KNN,Fold,F1,0.0,0.001953125,True
+KNN,Fold,AUC,0.0,0.001953125,True
+KNN,Fold,MCC,0.0,0.001953125,True
+KNN,Fold,Kappa,0.0,0.001953125,True
+KNN,Fold,Balanced Accuracy,0.0,0.001953125,True
+KNN,Fold,Training Time (s),24.0,0.76953125,False
+KNN,Accuracy,Precision,0.0,0.00390625,True
+KNN,Accuracy,Recall,0.0,1.0,False
+KNN,Accuracy,F1,0.0,0.015625,True
+KNN,Accuracy,AUC,0.0,0.001953125,True
+KNN,Accuracy,MCC,0.0,0.001953125,True
+KNN,Accuracy,Kappa,0.0,0.001953125,True
+KNN,Accuracy,Balanced Accuracy,26.5,0.943359375,False
+KNN,Accuracy,Training Time (s),0.0,0.001953125,True
+KNN,Precision,Recall,0.0,0.00390625,True
+KNN,Precision,F1,0.0,0.001953125,True
+KNN,Precision,AUC,0.0,0.001953125,True
+KNN,Precision,MCC,0.0,0.001953125,True
+KNN,Precision,Kappa,0.0,0.001953125,True
+KNN,Precision,Balanced Accuracy,21.0,0.5390625,False
+KNN,Precision,Training Time (s),0.0,0.001953125,True
+KNN,Recall,F1,0.0,0.015625,True
+KNN,Recall,AUC,0.0,0.001953125,True
+KNN,Recall,MCC,0.0,0.001953125,True
+KNN,Recall,Kappa,0.0,0.001953125,True
+KNN,Recall,Balanced Accuracy,26.5,0.943359375,False
+KNN,Recall,Training Time (s),0.0,0.001953125,True
+KNN,F1,AUC,0.0,0.001953125,True
+KNN,F1,MCC,0.0,0.001953125,True
+KNN,F1,Kappa,0.0,0.001953125,True
+KNN,F1,Balanced Accuracy,23.0,0.677734375,False
+KNN,F1,Training Time (s),0.0,0.001953125,True
+KNN,AUC,MCC,0.0,0.001953125,True
+KNN,AUC,Kappa,0.0,0.001953125,True
+KNN,AUC,Balanced Accuracy,0.0,0.001953125,True
+KNN,AUC,Training Time (s),0.0,0.001953125,True
+KNN,MCC,Kappa,0.0,0.03125,True
+KNN,MCC,Balanced Accuracy,0.0,0.001953125,True
+KNN,MCC,Training Time (s),0.0,0.001953125,True
+KNN,Kappa,Balanced Accuracy,0.0,0.001953125,True
+KNN,Kappa,Training Time (s),0.0,0.001953125,True
+KNN,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+Bagging,Fold,Accuracy,0.0,0.001953125,True
+Bagging,Fold,Precision,0.0,0.001953125,True
+Bagging,Fold,Recall,0.0,0.001953125,True
+Bagging,Fold,F1,0.0,0.001953125,True
+Bagging,Fold,AUC,0.0,0.001953125,True
+Bagging,Fold,MCC,0.0,0.001953125,True
+Bagging,Fold,Kappa,0.0,0.001953125,True
+Bagging,Fold,Balanced Accuracy,0.0,0.001953125,True
+Bagging,Fold,Training Time (s),0.0,0.001953125,True
+Bagging,Accuracy,Precision,0.0,0.001953125,True
+Bagging,Accuracy,Recall,0.0,1.0,False
+Bagging,Accuracy,F1,6.0,0.02734375,True
+Bagging,Accuracy,AUC,0.0,0.001953125,True
+Bagging,Accuracy,MCC,0.0,0.001953125,True
+Bagging,Accuracy,Kappa,0.0,0.001953125,True
+Bagging,Accuracy,Balanced Accuracy,27.0,1.0,False
+Bagging,Accuracy,Training Time (s),0.0,0.001953125,True
+Bagging,Precision,Recall,0.0,0.001953125,True
+Bagging,Precision,F1,0.0,0.001953125,True
+Bagging,Precision,AUC,0.0,0.001953125,True
+Bagging,Precision,MCC,0.0,0.001953125,True
+Bagging,Precision,Kappa,0.0,0.001953125,True
+Bagging,Precision,Balanced Accuracy,0.0,0.001953125,True
+Bagging,Precision,Training Time (s),0.0,0.001953125,True
+Bagging,Recall,F1,6.0,0.02734375,True
+Bagging,Recall,AUC,0.0,0.001953125,True
+Bagging,Recall,MCC,0.0,0.001953125,True
+Bagging,Recall,Kappa,0.0,0.001953125,True
+Bagging,Recall,Balanced Accuracy,27.0,1.0,False
+Bagging,Recall,Training Time (s),0.0,0.001953125,True
+Bagging,F1,AUC,0.0,0.001953125,True
+Bagging,F1,MCC,0.0,0.001953125,True
+Bagging,F1,Kappa,0.0,0.001953125,True
+Bagging,F1,Balanced Accuracy,19.0,0.431640625,False
+Bagging,F1,Training Time (s),0.0,0.001953125,True
+Bagging,AUC,MCC,0.0,0.001953125,True
+Bagging,AUC,Kappa,0.0,0.001953125,True
+Bagging,AUC,Balanced Accuracy,0.0,0.001953125,True
+Bagging,AUC,Training Time (s),0.0,0.001953125,True
+Bagging,MCC,Kappa,0.0,0.001953125,True
+Bagging,MCC,Balanced Accuracy,0.0,0.001953125,True
+Bagging,MCC,Training Time (s),0.0,0.001953125,True
+Bagging,Kappa,Balanced Accuracy,0.0,0.001953125,True
+Bagging,Kappa,Training Time (s),0.0,0.001953125,True
+Bagging,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+Stacking,Fold,Accuracy,0.0,0.001953125,True
+Stacking,Fold,Precision,0.0,0.001953125,True
+Stacking,Fold,Recall,0.0,0.001953125,True
+Stacking,Fold,F1,0.0,0.001953125,True
+Stacking,Fold,AUC,0.0,0.001953125,True
+Stacking,Fold,MCC,0.0,0.001953125,True
+Stacking,Fold,Kappa,0.0,0.001953125,True
+Stacking,Fold,Balanced Accuracy,0.0,0.001953125,True
+Stacking,Fold,Training Time (s),0.0,0.001953125,True
+Stacking,Accuracy,Precision,0.0,0.001953125,True
+Stacking,Accuracy,Recall,0.0,1.0,False
+Stacking,Accuracy,F1,0.0,0.001953125,True
+Stacking,Accuracy,AUC,0.0,0.001953125,True
+Stacking,Accuracy,MCC,0.0,0.001953125,True
+Stacking,Accuracy,Kappa,0.0,0.001953125,True
+Stacking,Accuracy,Balanced Accuracy,22.0,0.625,False
+Stacking,Accuracy,Training Time (s),0.0,0.001953125,True
+Stacking,Precision,Recall,0.0,0.001953125,True
+Stacking,Precision,F1,0.0,0.001953125,True
+Stacking,Precision,AUC,0.0,0.001953125,True
+Stacking,Precision,MCC,0.0,0.001953125,True
+Stacking,Precision,Kappa,0.0,0.001953125,True
+Stacking,Precision,Balanced Accuracy,0.0,0.001953125,True
+Stacking,Precision,Training Time (s),0.0,0.001953125,True
+Stacking,Recall,F1,0.0,0.001953125,True
+Stacking,Recall,AUC,0.0,0.001953125,True
+Stacking,Recall,MCC,0.0,0.001953125,True
+Stacking,Recall,Kappa,0.0,0.001953125,True
+Stacking,Recall,Balanced Accuracy,22.0,0.625,False
+Stacking,Recall,Training Time (s),0.0,0.001953125,True
+Stacking,F1,AUC,0.0,0.001953125,True
+Stacking,F1,MCC,0.0,0.001953125,True
+Stacking,F1,Kappa,0.0,0.001953125,True
+Stacking,F1,Balanced Accuracy,0.0,0.001953125,True
+Stacking,F1,Training Time (s),0.0,0.001953125,True
+Stacking,AUC,MCC,0.0,0.001953125,True
+Stacking,AUC,Kappa,0.0,0.001953125,True
+Stacking,AUC,Balanced Accuracy,0.0,0.001953125,True
+Stacking,AUC,Training Time (s),0.0,0.001953125,True
+Stacking,MCC,Kappa,0.0,0.001953125,True
+Stacking,MCC,Balanced Accuracy,0.0,0.001953125,True
+Stacking,MCC,Training Time (s),0.0,0.001953125,True
+Stacking,Kappa,Balanced Accuracy,0.0,0.001953125,True
+Stacking,Kappa,Training Time (s),0.0,0.001953125,True
+Stacking,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+LightGBM,Fold,Accuracy,0.0,0.001953125,True
+LightGBM,Fold,Precision,0.0,0.001953125,True
+LightGBM,Fold,Recall,0.0,0.001953125,True
+LightGBM,Fold,F1,0.0,0.001953125,True
+LightGBM,Fold,AUC,0.0,0.001953125,True
+LightGBM,Fold,MCC,0.0,0.001953125,True
+LightGBM,Fold,Kappa,0.0,0.001953125,True
+LightGBM,Fold,Balanced Accuracy,0.0,0.001953125,True
+LightGBM,Fold,Training Time (s),0.0,0.001953125,True
+LightGBM,Accuracy,Precision,0.0,0.001953125,True
+LightGBM,Accuracy,Recall,0.0,1.0,False
+LightGBM,Accuracy,F1,0.0,0.001953125,True
+LightGBM,Accuracy,AUC,0.0,0.001953125,True
+LightGBM,Accuracy,MCC,0.0,0.001953125,True
+LightGBM,Accuracy,Kappa,0.0,0.001953125,True
+LightGBM,Accuracy,Balanced Accuracy,24.5,0.796875,False
+LightGBM,Accuracy,Training Time (s),0.0,0.001953125,True
+LightGBM,Precision,Recall,0.0,0.001953125,True
+LightGBM,Precision,F1,0.0,0.001953125,True
+LightGBM,Precision,AUC,0.0,0.001953125,True
+LightGBM,Precision,MCC,0.0,0.001953125,True
+LightGBM,Precision,Kappa,0.0,0.001953125,True
+LightGBM,Precision,Balanced Accuracy,18.5,0.390625,False
+LightGBM,Precision,Training Time (s),0.0,0.001953125,True
+LightGBM,Recall,F1,0.0,0.001953125,True
+LightGBM,Recall,AUC,0.0,0.001953125,True
+LightGBM,Recall,MCC,0.0,0.001953125,True
+LightGBM,Recall,Kappa,0.0,0.001953125,True
+LightGBM,Recall,Balanced Accuracy,24.5,0.796875,False
+LightGBM,Recall,Training Time (s),0.0,0.001953125,True
+LightGBM,F1,AUC,0.0,0.001953125,True
+LightGBM,F1,MCC,0.0,0.001953125,True
+LightGBM,F1,Kappa,0.0,0.001953125,True
+LightGBM,F1,Balanced Accuracy,26.0,0.921875,False
+LightGBM,F1,Training Time (s),0.0,0.001953125,True
+LightGBM,AUC,MCC,0.0,0.001953125,True
+LightGBM,AUC,Kappa,0.0,0.001953125,True
+LightGBM,AUC,Balanced Accuracy,0.0,0.001953125,True
+LightGBM,AUC,Training Time (s),0.0,0.001953125,True
+LightGBM,MCC,Kappa,0.0,0.001953125,True
+LightGBM,MCC,Balanced Accuracy,0.0,0.001953125,True
+LightGBM,MCC,Training Time (s),0.0,0.001953125,True
+LightGBM,Kappa,Balanced Accuracy,0.0,0.001953125,True
+LightGBM,Kappa,Training Time (s),0.0,0.001953125,True
+LightGBM,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
+SVM,Fold,Accuracy,0.0,0.001953125,True
+SVM,Fold,Precision,0.0,0.001953125,True
+SVM,Fold,Recall,0.0,0.001953125,True
+SVM,Fold,F1,0.0,0.001953125,True
+SVM,Fold,AUC,,,False
+SVM,Fold,MCC,0.0,0.001953125,True
+SVM,Fold,Kappa,0.0,0.001953125,True
+SVM,Fold,Balanced Accuracy,0.0,0.001953125,True
+SVM,Fold,Training Time (s),27.0,1.0,False
+SVM,Accuracy,Precision,0.0,1.0,False
+SVM,Accuracy,Recall,0.0,1.0,False
+SVM,Accuracy,F1,0.0,1.0,False
+SVM,Accuracy,AUC,,,False
+SVM,Accuracy,MCC,0.0,0.001953125,True
+SVM,Accuracy,Kappa,0.0,0.001953125,True
+SVM,Accuracy,Balanced Accuracy,21.0,0.8828125,False
+SVM,Accuracy,Training Time (s),0.0,0.001953125,True
+SVM,Precision,Recall,0.0,1.0,False
+SVM,Precision,F1,0.0,1.0,False
+SVM,Precision,AUC,,,False
+SVM,Precision,MCC,0.0,0.001953125,True
+SVM,Precision,Kappa,0.0,0.001953125,True
+SVM,Precision,Balanced Accuracy,21.0,0.8828125,False
+SVM,Precision,Training Time (s),0.0,0.001953125,True
+SVM,Recall,F1,0.0,1.0,False
+SVM,Recall,AUC,,,False
+SVM,Recall,MCC,0.0,0.001953125,True
+SVM,Recall,Kappa,0.0,0.001953125,True
+SVM,Recall,Balanced Accuracy,21.0,0.8828125,False
+SVM,Recall,Training Time (s),0.0,0.001953125,True
+SVM,F1,AUC,,,False
+SVM,F1,MCC,0.0,0.001953125,True
+SVM,F1,Kappa,0.0,0.001953125,True
+SVM,F1,Balanced Accuracy,21.0,0.8828125,False
+SVM,F1,Training Time (s),0.0,0.001953125,True
+SVM,AUC,MCC,,,False
+SVM,AUC,Kappa,,,False
+SVM,AUC,Balanced Accuracy,,,False
+SVM,AUC,Training Time (s),,,False
+SVM,MCC,Kappa,0.0,1.0,False
+SVM,MCC,Balanced Accuracy,0.0,0.001953125,True
+SVM,MCC,Training Time (s),0.0,0.001953125,True
+SVM,Kappa,Balanced Accuracy,0.0,0.001953125,True
+SVM,Kappa,Training Time (s),0.0,0.001953125,True
+SVM,Balanced Accuracy,Training Time (s),0.0,0.001953125,True
